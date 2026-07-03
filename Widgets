@@ -1,0 +1,1204 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "requiredAddons" : [
+    "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json"
+  ],
+  "widgets" : [
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "movie::addon:0:movie:tmdb.top",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.EC324BB7-D155-479D-B394-8B461B21F3E7",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "series::addon:0:series:tmdb.top",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.D5AD7D33-408A-4863-A570-E9747D9BD76C",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Series",
+      "type" : "row.classic"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.91211",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.91213",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Action",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Action2.png",
+              "title" : "Action"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.91223",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.91224",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Comedy",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Comedy2.png",
+              "title" : "Comedy"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.138745",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.3126",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Crime",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/TrueCrime.png",
+              "title" : "Crime"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.91296",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.91297",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Drama",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Drama2.png",
+              "title" : "Drama"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.128051",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.128052",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Documentary",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Documentary2.png",
+              "title" : "Documentary"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.24262",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.147641",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Family",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Family2.png",
+              "title" : "Family"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.145739",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.147641",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Fantasy",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Fantasy2.png",
+              "title" : "Fantasy"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.158364",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.161057",
+                    "type" : "series"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.130778",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.130775",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "443D3618-2B9C-4DC0-958B-2A89851D3057",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.postimg.cc\/3JgZNh1Z\/C98CD781-F0D5-4603-AF1A-9132AAA84BEE.png",
+              "title" : "Foreign"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.91215",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.91217",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Horror",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Horror2.png",
+              "title" : "Horror"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.128262",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.128265",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Romance",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Romance2.png",
+              "title" : "Romance"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.91220",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.91221",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Sci Fi",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Sci-Fi2.png",
+              "title" : "Sci Fi"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:mdblist.91893",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/lZZRb5swEMe_SsRz0xjbYJy3aVvXaaomtX2r9mDMkbABzmxnU9Xlu88EGtJSXHiL7vjd_7j4_uYpkMKKUm1MsH4IRJapeo3WlfpTwLrK0rIw9pKHOAyDi1PWgC7AvEiTs_QAxsQLYzoKhyRhNBqnSYhjnzKPvcqcjSvjBEWelz7m8SiOKY6xh6YspuG4OI0Y4T48YhSN41FCYurB4xBFnlcniLHEgzf5aBRvjoPnL2vS3rH7B9fkvdoYebXx-NR5mHDvSU04DX5cBBVYEayfvMvi0rWoIFgHH6QtVL24aR4yrrp1sSo4vLNNA_5uq_4-4-Ycf2vbevqjqiB7nKXu1nHAT1Tv1vUM10UF09WP6_yanqjdbnsPf9KiEtOlWzd4jU_U7szijFZyX0FthZ4x-85S3q4ysZPWd_oSV6Iqyjk9tMY0KHB3fOx9_c65znnXv5nVwdHbhhUmTqAzvzNeaSg2Mzaws8dhhakdtP7Z899mnsXOYAcFJuq3BtzT10prpafLtw494Ceqdw7e47eqErWc4QKdxw8rTOygvQR6_E4Wy6tiun57Swz4yerNLdLT91tdlCXMmn9z0bxR4VUHroLV4pc93kVSgnGfcIEAnOUiYkK6Ilki0zjPcC4ShCihIsUQYRISJsIIYk44RBnGMRNYAg0RwdKV15BrMFtXLGbuATdMEocJy7IkSmQmOEcUEI6Fc_s0RyGXAlNGSYxEzGOURy4qUpbwVJ5esvm4fAr2unRFt9buzHq1EoVqbtLMfX5eQplvlbGQXUpVrYzVUBVqJSDKZZbzZZ4jWNKIkCVPIV3ilHFCMeKS8ZU7GkUObmw_japd98_X5tfvN131xeLf4nOZXx8FgoO7wXfNT93MzapdM7S9VQ7dabXRxzFavYdmulBn92JzCvzei7Kwj20oF6VxMeP-lC9Qa3gRuRW2qDenkNjAi8jh8B8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:mdblist.91894",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "Thriller",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/Thriller2.png",
+              "title" : "Thriller"
+            }
+          ]
+        }
+      },
+      "id" : "collection.559D4CB1-5D43-43E2-847E-E50CBDD53570",
+      "title" : "Genres",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.2020s.mnxfsf51",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:tmdb.discover.series.2020s.mnxftm3o",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "91273096-27b9-478f-93e2-588eee245b9b",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/yNMSZgsj\/temp_landscape_aurora_2.png",
+              "title" : "2020s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.2010s.mnxfrovh",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:tmdb.discover.series.2010s.mnxfry8z",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "bae90686-c5ae-40fe-8871-67ce34c2fe87",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/vB5xLYZt\/popular_2010s_movies_landscape_aurora_2.png",
+              "title" : "2010s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.2000s.mnxfqox8",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:tmdb.discover.series.2000s.mnxfrazr",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "0f22b6e5-0268-42e3-bccd-72e5db2f1e8f",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/6QkGv2tm\/popular_2000s_movies_landscape_aurora_2.png",
+              "title" : "2000s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.1990s.mnxfpnwd",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:tmdb.discover.series.1990s.mnxfpwz8",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "cd90df3d-6a47-472f-a55c-ffadba3f90f9",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/pTK5YWLY\/popular_1990s_movies_landscape_aurora_2.png",
+              "title" : "1990s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.1980s.mnxfp16e",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:tmdb.discover.series.1980s.mnxfp92f",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "d8e6d96c-8d3b-40dd-a5fd-4aa17e90af62",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/MT1fb6p0\/popular_1980s_movies_landscape_aurora_2.png",
+              "title" : "1980s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.1970s.mnxfnsdg",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:tmdb.discover.series.1970s.mnxfomd9",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "faf0a9de-8100-44b7-9d8e-b1bc133cd996",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/4dpHbfxW\/popular_1970s_movies_landscape_ember_2.png",
+              "title" : "1970s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.1960s.mnxfl685",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+                    "catalogId" : "series::addon:0:series:tmdb.discover.series.1960s.mnxfn1ig",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "D9A7C404-C3EC-4973-AEF0-487A171EA9F3",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/9MywtmQx\/popular_1960s_movies_landscape_ember_4.png",
+              "title" : "1960s"
+            }
+          ]
+        }
+      },
+      "id" : "collection.beafcaa0-65c5-4040-ab61-d1690c3d0157",
+      "title" : "Decades",
+      "type" : "collection.row"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.streaming_apple_tv_350_4.mnqf9bj0",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.5B5E44B1-92A3-4341-85FF-F2818E6AB2AC",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Apple TV Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "series::addon:0:series:tmdb.discover.series.streaming_apple_tv_350_4.mnqf9bj0",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.15587F7F-81A7-47B0-8A45-27C2EC715A30",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Apple TV Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.streaming_netflix_8_0.mnqf9bj0",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.2467DCDD-A08A-47A3-A50B-493717388BD1",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Netflix Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "series::addon:0:series:tmdb.discover.series.streaming_netflix_8_0.mnqf9bj0",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.4E27FAF4-B573-4E26-BCD0-C0589EC1A4A8",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Netflix Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.streaming_hbo_max_1899_1.mnqf9bj0",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.08B3352F-A444-4138-AD3F-938E8894DB63",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "HBO Max Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "series::addon:0:series:tmdb.discover.series.streaming_hbo_max_1899_1.mnqf9bj0",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.B8078E37-42D0-4C57-A41D-46E890278476",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "HBO Max Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.streaming_disney_337_2.mnqf9bj0",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.214A9A19-B891-40D9-9719-80D9C152F645",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Disney+ Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "series::addon:0:series:tmdb.discover.series.streaming_disney_337_2.mnqf9bj0",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.ACCB7067-332C-429C-B8AD-CA07F8FF6CA2",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Disney+ Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "movie::addon:0:movie:tmdb.discover.movie.streaming_prime_video_9_3.mnqf9bj0",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.9ED9DD19-94A5-4828-948D-BF738B8398D0",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Prime Video Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/pVhdb6M4FP0rEa_bJmATg_O2szOa2YfujFbVvKxGloHrhBnAFJw0baf_fU2aBEigMeShUuR7z8e1IvfcvFghVzyRy9Ja_GfxKJLZwl6kchPDQqVRMFUyt26OhRKKGMquShNSQBbF2bIPd15u67GCK4j6Vc_qDXgUl6HcQDHdnU1LLcZTLcZ4nifA1Ibhuc3caZo9CBr8tHtUjjRvh4N4TNyExToLV0-FTBKGfMz88YaMqEw86UIGTwxjj6Hxdi6xmDhZBZKlfMscn1LmjPdymcfIzTpZM2fOvCuMvEdh4iEDJZJ4y3xmj3dxgcTER84Lnsp1phgiDmEI25jNxzsypjPyBjyU4S-GfaL_PEau8GVCZeSpiFNgmzgCySjDVzi6TNTvx6HELjVkKxLizw21a1DmxD2P9ZmOd4CUUd_zf65zAMk0ooY6_h6SOwSMdY4gioShDj1Asse-f0jnOkfQ47NvpINsew95kFvfUKcGFfy5MNRxDhC5WRnrHEFP_rOhDtpDSjF3jHUOIJViaf24sVJQ3Fq8dAlW2UNXMp6CtbDu7z5-mHyT-Trh1UUofZRar92yF5FlE9mUPMSWE_R9HWfeFzbD98ofc88pXuaTf_eB6NLkZgx9Fnpfub5MVOv8WXVM7r9f8tj_AA7WGDzFO0GqFvmrbho_y0ilwRN1Z7Fa4uOu_sf4QYYJDPbfl99qgS8fvk7u-Hb8BEMlhs9wHv0a3Lp4hXdD6sGeO4NiTf3PW3m88UH8g91fCJW1zrdD4_hJRmsNn6o_kjZU3pqumGe4yvBJ-qJsQ6FqmXyvWq6YZYyO4TQnibpm3BWGej6J2t1sxs5aGbzJ5Y1x1grn3WzGzlqpvcnlj3HWivPdbMbOWjm_yUXHOGstAN1shs5ONoOaa1cY6uxkZehmM3bW2iWaXM4YZ60lo5vN2Flr-2hyoTHOWmtJN5t2pulUwX-pqoOHIZSlPg-Jh7igYeAKN3BdO-CUIDfAwhNz10Ecez5xBISAbQDsY5s4mOhESAVwGkG13RcgCij1BVueIIAxidzIBuEARREhNhCCfd9BFEfIiSilAaYIE0CgKbDtoAhx6rmRx93jxNVPvS_Wukg06UqpvFzMZjyW1boVccWnkIiVLPU-MA1lOqse1DSWMw5zEUaC3gphw607x_iWBhDcosCj2EU2DT06S3kWCyjV9GcpM-3-EM3__nq3Z59Mfk8-JeLLTsB6_XFj5dXH3bdxt5tZfK2q1zgv5LLYXaMq1lDdrt6T7vnyePCw5kmsnt6OBE9KfVau5ONnyAo4NFUHerfZ7V37Hr6E1snr6_8\/manifest.json",
+          "catalogId" : "series::addon:0:series:tmdb.discover.series.streaming_prime_video_9_3.mnqf9bj0",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.E00177FB-009E-406E-B969-2A14B44ADBA1",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Prime Video Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "IMDB: Top Rated Movies",
+          "listSlug" : "imdb-top-rated-movies",
+          "sortBy" : "rank",
+          "sortHow" : "asc",
+          "traktId" : 2142753,
+          "username" : "justin"
+        }
+      },
+      "id" : "trakt.0AE13534-8F67-47E4-8155-29F8F03BC0F0",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "IMDB: Top Movies",
+      "type" : "row.classic.numbered"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "IMDB: Top Rated TV Shows",
+          "listSlug" : "imdb-top-rated-tv-shows",
+          "traktId" : 2143363,
+          "username" : "justin"
+        }
+      },
+      "id" : "trakt.E7278446-2E7C-4FFE-A3AE-1695DF0EFD5A",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "IMDB: Top Series",
+      "type" : "row.classic.numbered"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-alfred-hitchcock-f5cc82a7-e0a2-4aea-8396-9f42fb39399b",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "CF0B9F63-E218-4D14-87EE-BD34E038E46A",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/hitchcock-wide.png",
+              "title" : "Hitchcock"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-brian-de-palma",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "83AADEC3-2EE5-4611-B85E-18B3BFEC3E73",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/depalma-wide.png",
+              "title" : "Depalma"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-christopher-nolan",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "4A7D8CD3-3743-4E10-A018-B258F3E7604F",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/nolan-wide.png",
+              "title" : "Nolan"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:zorge88--director-david-lynch",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "0B3A52BB-3BDF-40B3-AE50-C864FC4F70A1",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/m2sTC33k\/635DB890-4057-4FDF-AE0A-56202073A5D8.png",
+              "title" : "David Lynch"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-david-fincher",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "7E22EC53-3F0E-4847-914E-BB7EFBF4A890",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/fincher-wide.png",
+              "title" : "Fincher"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-denis-villeneuve",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "414A2A62-DF0C-4B7E-910E-DB2F87A1E9D3",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/villeneuve-wide.png",
+              "title" : "Villeneuve"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-guillermo-del-toro",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "4868DD13-E5DF-4022-B589-D121171EE50A",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/Fs4h3bb1\/B32A8F71-CD26-4433-8C57-279FC6E68F63.png ",
+              "title" : "Gillermo Del Toro"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-john-carpenter",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "AC7F02AE-8741-4B3E-A39F-F40D5331722F",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/carpenter-wide.png",
+              "title" : "Carpenter"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-martin-scorsese",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "F1DA0A73-B949-45FE-950C-0CC83E17CBC1",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/scorsese-wide.png",
+              "title" : "Scorsese"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-paul-thomas-anderson",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "07B16E1A-9733-4743-A79C-83B528E4DF3C",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/anderson-wide.png",
+              "title" : "Anderson"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-stanley-kubrick",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "1C7D1BA0-6C6C-464F-9910-4657968FE55B",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/kubrick-wide.png",
+              "title" : "Kubrick"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "https:\/\/btttr.cc\/tZVNc9MwEIb_isbnasZxHMfJrbRQhlKmQzv0wHBYy2tbxJGCpKQTOv3vrNN8uRG1OXCVHz368Ordp0CAg1qXNph-D5yBmeOLZTbVRpZSDWLOc2lQOG041IXBnFfSiUpoMePFSIg0gjHHECIeAwJPh5OET4o4KrLhZDiZZMHZ29LMSFA8R76Aeg5dtHW4QsXtQmKdoSm7-AUsa-4qPQfLQeVorFZdc-ZSVIA1n4Nqs7lUs7VVsiiO6J-6UlyAtbBCh7ZLLiojrdOLCg1XuobO3Wz9ZoHKoemi6YwGJXdgZnplZ-suPkclLV_JukaFyxV28eWyQc1c00y6WG101wzrQNW45rMl_Wkx68KFpt-bGe3ogjovcw7GSaoGoY1F27n5R63zNVUxnbULxbwEmkAfKtddA49alXzWTADZon9rU2KaHl84rGTO67USVdceXtBCEko__sdZMEcHwfTpfzxSsiqYYzANLreiKTvfmNjHnanZLwFZ8PxvT9rnftcg7BLZ7e7V9zKfPH-f-24DsbvjjOhl94aFb4VbAtn9BmTnR6nSa5VWvPjsNy8Au9nmz6m1VxD51J-IYRetsOq159PU8tkvDhT7ssu2Xv5XIffG1o9ysJf5JBC9lb6B2P1xavayn8Snz37ZQOxbK2N72T1h6_Nf7TBaicpym8m9Vngdzv7ntGHY9SHAe7nbSe6tFyIoCQ5Z38v7OvS9T2jDsLujxtDLfdwhfN6H5jsF47aD9HK2WolP-r4B2MO-1_R8762m49-sKtn1oSudet9uT95abr6zz7v21esC2n3s79YPW2Lv3YmbOSAEWiqjIErjwSTBOBmnYViIMImioRCigEyEUQ7jKCuSUTwejUfFYDLEOC5EFCdpAWMcRlHW9BqD1NgsHTCg5heKvCgGYTbGeJTQnHE2hEkYZtQj0zikZUNaLYE0y8QIRomIwzQLhwMQmCR5c_aFttvMougjJyxd8wAXRpdms2VnlticBFV-D-V-4NcSaunWL0MF1JbGbKUfr1AZ3EHNwFegWi73DJTYGnl-_gM\/manifest.json",
+                    "catalogId" : "movie::trakt-pub:origin14--director-steven-spielberg",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "9DF126F6-F9F9-4363-9926-4EE72DD77040",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/spielberg-wide.png",
+              "title" : "Spielberg"
+            }
+          ]
+        }
+      },
+      "id" : "collection.D3970BED-E9FB-4E7F-9B21-4809D88D6B7C",
+      "title" : "Directors",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Oscars: Best Picture Nominees",
+                    "listSlug" : "the-oscars-best-picture-nominees",
+                    "traktId" : 33535789,
+                    "username" : "jackrabbitslim"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "C4D3FAA0-AD75-46F1-A852-B9E8B3659034",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/oscars-poster.png",
+              "title" : "Oscars"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Primetime Emmy Awards - Outstanding Comedy\/Drama\/Variety Series Winners",
+                    "listSlug" : "primetime-emmy-awards-outstanding-comedy-drama-variety-series-winners",
+                    "traktId" : 9603614,
+                    "username" : "thefork"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "931D00B7-1851-4BAC-94DC-B4633401748B",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.postimg.cc\/rwqjDHQL\/HEIF_Image.jpg",
+              "title" : "Emmys"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Rotten Tomatoes’ Golden Globes Best Picture Winners by Tomatometer copy",
+                    "listSlug" : "rotten-tomatoes-golden-globes-best-picture-winners-by-tomatometer-copy",
+                    "traktId" : 6241767,
+                    "username" : "danielle0412"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "7625F088-76A2-4205-AEEF-57BB9213B6A4",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/goldenglobes-poster.png",
+              "title" : "Goldenglobes"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "BAFTA - Best Film Award Winners",
+                    "listSlug" : "bafta-best-film-award-winners",
+                    "traktId" : 24791084,
+                    "username" : "foux72"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "C58803F9-FD39-4883-B071-EFD2F1958B30",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/bafta-poster.png",
+              "title" : "Bafta"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Film Independent Spirit Awards — Best Feature",
+                    "listSlug" : "film-independent-spirit-awards-best-feature",
+                    "traktId" : 32197432,
+                    "username" : "victorchagas"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "916FFA3C-C83F-4D5B-8C16-73EE10466C7D",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/fisa-poster.png",
+              "title" : "Fisa"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Festival de Cannes: Palme d'Or winners",
+                    "listSlug" : "festival-de-cannes-palme-d-or-winners",
+                    "traktId" : 32434377,
+                    "username" : "PierreDurrr"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "53E09759-4582-4F74-8CBE-7C11D51238A9",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/iff-poster.png",
+              "title" : "Iff"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Venice Film Festival - Golden Lion",
+                    "listSlug" : "venice-film-festival-golden-lion",
+                    "traktId" : 9360302,
+                    "username" : "maxwelldeux"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "A0B38152-ED99-4E70-BDBB-97968091B3E0",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/viff-poster.png",
+              "title" : "Viff"
+            }
+          ]
+        }
+      },
+      "id" : "collection.624AE481-A010-400F-8C4F-F1ADBAADAA95",
+      "title" : "Awards",
+      "type" : "collection.row"
+    }
+  ]
+}
